@@ -1,0 +1,66 @@
+[
+    {
+        "Id" : "1",
+        "Descripcion" : "AK-47 Wild lotus",
+        "Stock" : 36,
+        "Precio" : "8908838",
+        "linkImagen" : "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak_island_floral_light_large.1303e76d0a77ab164a46a7aba5ab1dcaf1acee6b.png"
+    },
+    {
+        "Id" : "2",
+        "Descripcion" : "AWP | Wildfire",
+        "Stock" : 1629,
+        "Precio" : "119453",
+        "linkImagen" : "https://cdn.csgoskins.gg/public/uih/products/aHR0cHM6Ly9zdGVhbWNvbW11bml0eS1hLmFrYW1haWhkLm5ldC9lY29ub215L2ltYWdlLy05YTgxZGxXTHdKMlVVR2NWc19uc1Z0emRPRWR0V3dLR1paTFFIVHhEWjdJNTZLVTBad3dvNE5VWDRvRkpaRUhMYlhINUFwZU80WW1saHhZUWtuQ1J2Q28wNERFVmx4a0tncG90NjIxRkFSMTdQTGZZUUpWNWRDeWtvbVprc2o0T3J6WmdsUmQ2ZGQyajZlWHBJbW0zbGJsLVJZLVoyeWlKNC1kY1FCdE5RclZxQURxay11LWdKVzZ1NTdPejNwbnNpWWotei1EeUxEeFFjWE8vNTEyeDM4NA--/auto/auto/85/notrim/7b0bd1152b1ca57ff0204e0a4d41b700.webp"
+    },
+    {
+        "Id" : "3",
+        "Descripcion" : "M4A1-S | Printstream",
+        "Stock" : 1545,
+        "Precio" : "374644",
+        "linkImagen" : "https://cdn.csgoskins.gg/public/uih/products/aHR0cHM6Ly9zdGVhbWNvbW11bml0eS1hLmFrYW1haWhkLm5ldC9lY29ub215L2ltYWdlLy05YTgxZGxXTHdKMlVVR2NWc19uc1Z0emRPRWR0V3dLR1paTFFIVHhEWjdJNTZLVTBad3dvNE5VWDRvRkpaRUhMYlhINUFwZU80WW1saHhZUWtuQ1J2Q28wNERFVmx4a0tncG91LTZrZWpoejJ2X05mejVIX3VPMWdiLUd3X2FsSUlUQmhHSmZfTlpsbU96QS1MUDVnVk84dnl3d01pdWtjWmljZTFNOVpWaUQtQVRybGU3djE1TzQ2Y2lmekhGaHVuWjI0M3lJbnhXLTEwc1pPckJwMXFUTFZ4ekFVTnhFb0ZBUC81MTJ4Mzg0/auto/auto/85/notrim/43c8e09f01b8674dfc71a315f23028be.webp"
+    },
+    {
+        "Id" : "4",
+        "Descripcion" : "M4A4 | Howl",
+        "Stock" : 17,
+        "Precio" : "4908000",
+        "linkImagen" : "https://cdn.csgoskins.gg/public/uih/products/aHR0cHM6Ly9zdGVhbWNvbW11bml0eS1hLmFrYW1haWhkLm5ldC9lY29ub215L2ltYWdlLy05YTgxZGxXTHdKMlVVR2NWc19uc1Z0emRPRWR0V3dLR1paTFFIVHhEWjdJNTZLVTBad3dvNE5VWDRvRkpaRUhMYlhINUFwZU80WW1saHhZUWtuQ1J2Q28wNERFVmx4a0tncG91LTZrZWpoanhzekZKVHdUMDlTNWc0eUNtZkRMUDdMV25uOXU1TVJqamV5UDl0cWhpUTJ5cUVvNk1tbjNkb1BCY3dacVpRclJyMU8td2Vfc2dNTzV0Wl9CekNGcjZ5Y2x0bUdkd1VMYTF2R0pGZy81MTJ4Mzg0/auto/auto/85/notrim/e41a19771964b64e16f7449a152ccc15.webp"
+    },
+    {
+        "Id" : "5",
+        "Descripcion" : "Desert Eagle | Sunset Storm 壱",
+        "Stock" : 50,
+        "Precio" : "246377",
+        "linkImagen" : "https://cdn.csgoskins.gg/public/uih/products/aHR0cHM6Ly9zdGVhbWNvbW11bml0eS1hLmFrYW1haWhkLm5ldC9lY29ub215L2ltYWdlLy05YTgxZGxXTHdKMlVVR2NWc19uc1Z0emRPRWR0V3dLR1paTFFIVHhEWjdJNTZLVTBad3dvNE5VWDRvRkpaRUhMYlhINUFwZU80WW1saHhZUWtuQ1J2Q28wNERFVmx4a0tncG9zci1rTEF0bDdQTEZUaTVIN2MtaW01S0dxUFg0UExUVnFXZFk3ODFsdGVYQTU0dnd4Z1d4OGtFOVpEenlMZERCSndZX1pRM1ZxMWEteWUzdDFKLV83cG5OeVNkajZTQWg0eXZZbGhPcHdVWWIxR29yUS04LzUxMngzODQ-/auto/auto/85/notrim/f314512657bb5e332a0e9a3b540126c5.webp"
+    },
+    {
+        "Id" : "6",
+        "Descripcion" : "USP-S | Printstream",
+        "Stock" : 500,
+        "Precio" : "130540",
+        "linkImagen" : "https://cdn.csgoskins.gg/public/uih/products/aHR0cHM6Ly9zdGVhbWNvbW11bml0eS1hLmFrYW1haWhkLm5ldC9lY29ub215L2ltYWdlLy05YTgxZGxXTHdKMlVVR2NWc19uc1Z0emRPRWR0V3dLR1paTFFIVHhEWjdJNTZLVTBad3dvNE5VWDRvRkpaRUhMYlhINUFwZU80WW1saHhZUWtuQ1J2Q28wNERFVmx4a0tncG9vNm0xRkJScDNfYkdjamhRMDktanE1V1loOGprSWJMZmduaEYtc0J3aDliTl9JdjluR3U0cWdFN05uZjZjb1BISVZJNk4xSFVyZ085bGVmcGdNU183cC1jemlGZzYzRnhzSHZhbjBDLWhSNUtiZTF2bTdYQUh2RzlWUTBqLzUxMngzODQ-/auto/auto/85/notrim/8b988dce34fa33d7963d5918d4630288.webp"
+    },
+    {
+        "Id" : "7",
+        "Descripcion" : "MAG-7 | SWAG-7",
+        "Stock" : 1200,
+        "Precio" : "1835",
+        "linkImagen" : "https://cdn.csgoskins.gg/public/uih/products/aHR0cHM6Ly9zdGVhbWNvbW11bml0eS1hLmFrYW1haWhkLm5ldC9lY29ub215L2ltYWdlLy05YTgxZGxXTHdKMlVVR2NWc19uc1Z0emRPRWR0V3dLR1paTFFIVHhEWjdJNTZLVTBad3dvNE5VWDRvRkpaRUhMYlhINUFwZU80WW1saHhZUWtuQ1J2Q28wNERFVmx4a0tncG91N3VpZkRoaHdzekZjRG9WMDgtaGxZZmNxUHY5TkxQRnFXZFEtc0oweEx1UnB0aWtqUWZ0X1JjLWEyR2lJZFBHSmxNMlpRN1lxRm0td3JfcWhaYnF1TXljbW5FeHZ5VThwU0dLNDVDRnV1by81MTJ4Mzg0/auto/auto/85/notrim/9dbf8b089fa493ffda3ab4e51be78eda.webp"
+    },
+    {
+        "Id" : "8",
+        "Descripcion" : "Falchion Knife (Ruby)",
+        "Stock" : 67,
+        "Precio" : "1145486",
+        "linkImagen" : "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20heL2KoTcl3lT5MB4kOzFyoD8j1yglB89IT6mOtOSc1U3YFHZrle5x7u90ZTouJiayXZk63Mm4n2InxTlhUsfaOc8jfeACQLJL06VjiQ/512fx384f"
+    },
+    {
+        "Id" : "9",
+        "Descripcion" : "Sport Gloves | Pandora's Box",
+        "Stock" : 3,
+        "Precio" : "43180427",
+        "linkImagen" : "https://cdn.csgoskins.gg/public/uih/products/aHR0cHM6Ly9zdGVhbWNvbW11bml0eS1hLmFrYW1haWhkLm5ldC9lY29ub215L2ltYWdlLy05YTgxZGxXTHdKMlVVR2NWc19uc1Z0emRPRWR0V3dLR1paTFFIVHhEWjdJNTZLVTBad3dvNE5VWDRvRkpaRUhMYlhINUFwZU80WW1saHhZUWtuQ1J2Q28wNERBUTFKbU1SMW9zYmFxUFFKejdPRFlmaTlXOWVPbWdaS2JtX0xMUDdMV25uOXU1TVJqamV5UG9OcjBqUUcxcjBSdFl6enpJb19EY2dJLU5WRFdxUUR2eExpLTFwLTV2c3VkeW5jMzZIVW03V0dkd1VKS1hlc0xzdy81MTJ4Mzg0/auto/auto/85/notrim/b2ff94137fce8bfbf01f9d12a439f65c.webp"
+    }
+
+]
